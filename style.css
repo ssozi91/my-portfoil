@@ -200,7 +200,7 @@ section .title::after {
 
 .home {
     display: flex;
-    background: #1c1d25;
+    background: #50d627;
     /* background: url("images/profile2.jpeg") no-repeat center; */
     height: 100vh;
     color: #fff;
