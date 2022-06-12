@@ -416,6 +416,11 @@ section .title::after {
     background: none;
 }
 
+.skills .skills-content .right a:hover {
+    color: rgb(14, 230, 14);
+    background: none;
+}
+
 .skills .skills-content .right .bars {
     margin-bottom: 15px;
 }
